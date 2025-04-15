@@ -126,7 +126,7 @@ livestock-analysis/
 
 ## 🤝 Authors
 
-Adil and Jansaya
+Adil and Zhansaya
 
 ---
 
